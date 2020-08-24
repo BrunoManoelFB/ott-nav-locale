@@ -1,8 +1,8 @@
 <resources>
-    <string name="press_back_once_more_to_exit">Pressione mais uma vez para sair</string>
+    <string name="press_back_once_more_to_exit">Pressione novamente para sair</string>
 
     <string name="search_bar">Pesquise por canais ou programas</string>
-    <string name="search_bar_clue">tente nomes de filmes, séries de TV, nomes de programas de TV ou nomes de atores</string>
+    <string name="search_bar_clue">Busque por nomes de filmes, séries de TV, nomes de programas de TV ou nomes de atores</string>
 
 
     <string name="menu_search">Pesquisa de vídeos</string>
@@ -11,10 +11,10 @@
     <string name="menu_settings">Configurações</string>
     <string name="menu_error_require_provider_button">Configurar provedor</string>
     <string name="menu_error_require_live_but_no_playlist_title">Não foi possível carregar a lista de reprodução com os canais</string>
-    <string name="menu_error_require_live_but_no_playlist_text">O provedor ou lista de reprodução configurado não pode ser alcançado. Por favor, verifique novamente as configurações do provedor, se elas parecerem corretas, entre em contato com o seu provedor de IPTV.</string>
+    <string name="menu_error_require_live_but_no_playlist_text">O provedor ou a lista de reprodução configurada não pode ser alcançado. Por favor, verifique novamente as configurações do provedor, se elas parecerem corretas, entre em contato com o seu provedor de IPTV.</string>
 
 
-    <string name="browse_description_series_number">episódio</string>
+    <string name="browse_description_series_number">Episódios</string>
     <string name="browse_description_header_live">Canais ao vivo</string>
     <string name="browse_description_header_program">Grade horária do canal</string>
 
@@ -28,20 +28,20 @@
     <string name="category_by_age">Filtrar por classificação etária</string>
     <string name="category_by_country">Filtrar por país de origem</string>
     <string name="category_by_unsorted">Todos</string>
-    <string name="category_by_favorite">Favorito</string>
-    <string name="category_desc_movies">filtro automático de todos os canais</string>
-    <string name="category_desc_tv_series">filtro automático de todos os canais</string>
-    <string name="category_desc_exact_tv_series">séries de TV</string>
-    <string name="category_desc_tv_shows">filtro automático de todos os canais</string>
+    <string name="category_by_favorite">Favoritos</string>
+    <string name="category_desc_movies">Filtro automático de todos os canais</string>
+    <string name="category_desc_tv_series">Filtro automático de todas as séries</string>
+    <string name="category_desc_exact_tv_series">Séries de TV</string>
+    <string name="category_desc_tv_shows">Filtro automático de todos os programas de TV</string>
     <string name="category_desc_exact_tv_shows">Programas de TV</string>
-    <string name="category_desc_tv_channel">canal de TV</string>
-    <string name="category_desc_from_fav">apenas conteúdo dos canais favoritos</string>
+    <string name="category_desc_tv_channel">Canal de TV</string>
+    <string name="category_desc_from_fav">Apenas conteúdo dos canais favoritos</string>
 
 
     <string name="in_1_minute">em 1 minuto</string>
     <string name="in_n_minutes">em 10 minutos</string>
-    <string name="player_episode_details_season">temporada</string>
-    <string name="player_episode_details_series">episódio</string>
+    <string name="player_episode_details_season">Temporada</string>
+    <string name="player_episode_details_series">Episódio</string>
     <string name="player_warn_turn_off">O desligamento ocorrerá</string>
     <string name="player_press_to_cancel">Pressione OK para cancelar</string>
     <string name="player_touch_to_cancel">Toque na tela para cancelar</string>
